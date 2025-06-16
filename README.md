@@ -79,13 +79,6 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2">
-      <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KarthikSapaliga&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
         <div align="center">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikSapaliga&count_private=true&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github&bg_color=ffffff00" alt="GitHub Stats" />
@@ -102,6 +95,13 @@
       <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikSapaliga&radius=16&theme=nightowl&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff00" height="300" alt="activity-graph graph"  />
       </div>
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2">
+      <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KarthikSapaliga&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
     </td>
   </tr>
 </table>
