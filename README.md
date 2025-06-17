@@ -97,11 +97,13 @@
       </div>
     </td>
   </tr>
-    <tr>
+  <!--  
+  <tr>
     <td colspan="2">
       <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=KarthikSapaliga&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
     </td>
   </tr>
+  -->
 </table>
