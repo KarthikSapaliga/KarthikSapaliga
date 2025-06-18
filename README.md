@@ -97,7 +97,6 @@
       </div>
     </td>
   </tr>
-  <!--  
   <tr>
     <td colspan="2">
       <div align="center">
@@ -105,5 +104,4 @@
 </div>
     </td>
   </tr>
-  -->
 </table>
