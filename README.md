@@ -100,8 +100,8 @@
   <tr>
     <td colspan="2">
       <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KarthikSapaliga&theme=onedark&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+        <img src="https://github-profile-trophy.vercel.app/?username=KarthikSapaliga&column=4&margin-w=15&margin-h=15&theme=onedark&no-frame=true&" height="280" alt="github-trophy">
+      </div>
     </td>
   </tr>
 </table>
