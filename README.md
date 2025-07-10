@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -55,9 +55,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vsocde logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
 </div>
 
 ###
