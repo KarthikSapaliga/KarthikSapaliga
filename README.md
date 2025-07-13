@@ -1,8 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=4000&pause=200&color=934FF7&center=true&vCenter=true&width=435&height=60&lines=Hi+There+%F0%9F%91%8B;I'm+Karthik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=400&size=50&duration=4000&pause=200&color=934FF7&center=true&vCenter=true&width=435&height=60&lines=Hi+There+%F0%9F%91%8B;I'm+Karthik" alt="Typing SVG" />
 </h1>
 
 ###
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKarthikSapaliga%2FKarthikSapaliga%2F&label=VISITORS&countColor=%23934ff7" />
+  <p></p>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
