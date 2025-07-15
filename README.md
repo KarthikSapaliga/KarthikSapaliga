@@ -98,7 +98,7 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikSapaliga&radius=16&theme=nightowl&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff00" height="300" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarthikSapaliga&radius=16&theme=nightowl&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&bg_color=ffffff00" height="400" alt="activity-graph graph"  />
       </div>
     </td>
   </tr>
