@@ -105,7 +105,7 @@
   <tr>
     <td colspan="2">
       <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=KarthikSapaliga&column=5&margin-w=15&margin-h=15&theme=onedark&no-frame=true&title=Commits,Experience,Stars,Repositories,PullRequests,Issues" height="120" alt="github-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=KarthikSapaliga&column=6&margin-w=15&margin-h=15&theme=onedark&no-frame=true&title=Commits,Experience,Stars,Repositories,PullRequest,Issues" height="120" alt="github-trophy">
       </div>
     </td>
   </tr>
